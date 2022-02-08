@@ -1,0 +1,6 @@
+zig-cache
+zig-out
+gyro.lock
+deps.zig
+.gyro
+build_runner.zig

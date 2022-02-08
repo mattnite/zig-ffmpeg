@@ -1,0 +1,11 @@
+build_deps:
+  zlib-build:
+    git:
+      url: "https://github.com/mattnite/zig-zlib.git"
+      ref: main
+      root: zlib.zig
+  lame-build:
+    git:
+      url: "https://github.com/mattnite/zig-lame.git"
+      ref: main
+      root: lame.zig
